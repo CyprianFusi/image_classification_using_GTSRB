@@ -17,4 +17,4 @@ Deep Learning for Dummies by by John Paul Mueller and Luca Massaron
 Thanks to Institut für NeuroInformatik at Ruhr-Universität Bochum in Germany for the dataset.
 
 PS: I am doing data science and machine learning as a hobby but I wish to make it my life career!
-
+cyprofusi@hotmail.com
